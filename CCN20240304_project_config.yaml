@@ -1,0 +1,9 @@
+accession_id_prefix: AITXXX
+author: https://orcid.org/0000-0003-3373-7386
+description: 'Cellular and molecular characterization of human cortical cytoarchitecture.
+  Supercluster: CGE-derived interneurons.'
+github_org: hkir-dev
+id: CCN20240304
+matrix_file_id: CellXGene_dataset:e4ddac12-f48f-4455-8e8d-c2a48a683437
+repo: human-neocortex-cge-derived-interneurons
+title: 'Supercluster: CGE-derived interneurons'
