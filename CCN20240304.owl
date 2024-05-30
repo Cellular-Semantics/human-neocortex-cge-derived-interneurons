@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xml:base="https://purl.brain-bican.org/ontology/AIT_CCN20240304/"
+   xmlns:CAS="https://cellular-semantics.sanger.ac.uk/ontology/CAS/"
+   xmlns:obo="http://purl.obolibrary.org/obo/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="CrossArea_cluster#c1363853e5">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_5</rdfs:label>
+    <skos:preflabel>Sncg_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://cellular-semantics.sanger.ac.uk/ontology/CAS/HNEO">
+    <CAS:author_name>Trygve E Bakken</CAS:author_name>
+    <CAS:labelsets rdf:resource="CrossArea_cluster"/>
+    <CAS:labelsets rdf:resource="CrossArea_subclass"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#624795c3cd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2490629f3a"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#c19e6ecb21"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#01d93e7878"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#d37227472c"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#4913695557"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#c1363853e5"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a747c02430"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2f2078ae37"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#81f38daf95"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#ce92aa2fc0"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#f9a1f003c1"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#db141bf46f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#1035859e11"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#4cfbdd53fc"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a4237ae379"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#17734b2606"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#f3ce3a65b7"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#b1d43457ca"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#28d80539db"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#95a8235f0d"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#6a8a98beda"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#72922d07b8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#037f0480e8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#6abb0ffd1f"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#a357dafdb8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#6d80f8608e"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#30e1da23ee"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#8ea3fef4e4"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#439c78b112"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#9be4182026"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#c3c9e4953e"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#3efe3bb311"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#201758818d"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#9200d5b3cb"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#9f9442562e"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#fd93a6e3fd"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#67001298fa"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#c49e5ca8ce"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#476bf7bdd0"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#24c88a1eab"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#bf9fa97b6a"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#1e4e1b9310"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#d54d994682"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#ed29c43c53"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#2bc2c3bfe8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#7a2033daa8"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#5997258573"/>
+    <CAS:annotations rdf:resource="CrossArea_cluster#eb133b51ca"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#3efe3bb311"/>
+    <CAS:annotations rdf:resource="CrossArea_subclass#8095bd2cb8"/>
+    <CAS:matrix_file_id>CellXGene_dataset:e4ddac12-f48f-4455-8e8d-c2a48a683437</CAS:matrix_file_id>
+    <CAS:cellannotation_schema_version>4.0.0</CAS:cellannotation_schema_version>
+    <CAS:orcid>https://orcid.org/0000-0003-3373-7386</CAS:orcid>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/GeneralCellAnnotationOpenStandard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#1e4e1b9310">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_1</rdfs:label>
+    <skos:preflabel>Vip_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2f2078ae37">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_7</rdfs:label>
+    <skos:preflabel>Lamp5_7</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#30e1da23ee">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_7</rdfs:label>
+    <skos:preflabel>Sncg_7</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#95a8235f0d">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_10</rdfs:label>
+    <skos:preflabel>Vip_10</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N0c378801e0964146ba3d6e57a3621b0e">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023015"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#24c88a1eab">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_19</rdfs:label>
+    <skos:preflabel>Vip_19</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#9200d5b3cb">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_20</rdfs:label>
+    <skos:preflabel>Vip_20</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#1035859e11">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_26</rdfs:label>
+    <skos:preflabel>Vip_26</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#01d93e7878">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_9</rdfs:label>
+    <skos:preflabel>Vip_9</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#81f38daf95">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_15</rdfs:label>
+    <skos:preflabel>Vip_15</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#db141bf46f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_4</rdfs:label>
+    <skos:preflabel>Vip_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#6d80f8608e">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_12</rdfs:label>
+    <skos:preflabel>Vip_12</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#624795c3cd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_25</rdfs:label>
+    <skos:preflabel>Vip_25</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#c3c9e4953e">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_14</rdfs:label>
+    <skos:preflabel>Vip_14</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#439c78b112">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pax6_2</rdfs:label>
+    <skos:preflabel>Pax6_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8095bd2cb8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#72922d07b8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_8</rdfs:label>
+    <skos:preflabel>Vip_8</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#4319e0fcb2">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Lamp5</rdfs:label>
+    <skos:preflabel>Lamp5</skos:preflabel>
+    <CAS:cell_ontology_term>lamp5 GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N21a62dd6ea8d4313ba3d48448be52740"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#8ea3fef4e4">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_29</rdfs:label>
+    <skos:preflabel>Vip_29</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#4cfbdd53fc">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_17</rdfs:label>
+    <skos:preflabel>Vip_17</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#ed29c43c53">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_2</rdfs:label>
+    <skos:preflabel>Lamp5_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#bf12821e51">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Sncg</rdfs:label>
+    <skos:preflabel>Sncg</skos:preflabel>
+    <CAS:cell_ontology_term>sncg GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N0c378801e0964146ba3d6e57a3621b0e"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#9f9442562e">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_6</rdfs:label>
+    <skos:preflabel>Lamp5_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a747c02430">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_1</rdfs:label>
+    <skos:preflabel>Sncg_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#f9a1f003c1">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_1</rdfs:label>
+    <skos:preflabel>Lamp5_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2490629f3a">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_3</rdfs:label>
+    <skos:preflabel>Sncg_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#7a2033daa8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_6</rdfs:label>
+    <skos:preflabel>Vip_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#f3ce3a65b7">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_18</rdfs:label>
+    <skos:preflabel>Vip_18</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#d54d994682">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_13</rdfs:label>
+    <skos:preflabel>Vip_13</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#67001298fa">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_16</rdfs:label>
+    <skos:preflabel>Vip_16</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass">
+    <rdfs:label>CrossArea_subclass</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#b1d43457ca">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_5</rdfs:label>
+    <skos:preflabel>Vip_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a4237ae379">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_4</rdfs:label>
+    <skos:preflabel>Lamp5_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#6abb0ffd1f">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_22</rdfs:label>
+    <skos:preflabel>Vip_22</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#201758818d">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_7</rdfs:label>
+    <skos:preflabel>Vip_7</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#5997258573">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_2</rdfs:label>
+    <skos:preflabel>Vip_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N812bfdfc8af4485fb61fa3e53cdf8e16">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#2bc2c3bfe8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_5</rdfs:label>
+    <skos:preflabel>Lamp5_5</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#8095bd2cb8">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Pax6</rdfs:label>
+    <skos:preflabel>Pax6</skos:preflabel>
+    <CAS:cell_ontology_term>caudal ganglionic eminence derived GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N939c8053b2d84f8781a1b38bb12b82dc"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#aeeec672d8">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Vip</rdfs:label>
+    <skos:preflabel>Vip</skos:preflabel>
+    <CAS:cell_ontology_term>vip GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N812bfdfc8af4485fb61fa3e53cdf8e16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#4913695557">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pax6_4</rdfs:label>
+    <skos:preflabel>Pax6_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8095bd2cb8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#3efe3bb311">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5 Lhx6_1</rdfs:label>
+    <skos:preflabel>Lamp5 Lhx6_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#3efe3bb311"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_subclass#3efe3bb311">
+    <CAS:has_labelset rdf:resource="CrossArea_subclass"/>
+    <rdfs:label>Lamp5 Lhx6</rdfs:label>
+    <skos:preflabel>Lamp5 Lhx6</skos:preflabel>
+    <CAS:cell_ontology_term>lamp5 GABAergic cortical interneuron</CAS:cell_ontology_term>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+    <rdf:type rdf:nodeID="N9d0fbc79f7024b56bc788248e1f12d8f"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#eb133b51ca">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_2</rdfs:label>
+    <skos:preflabel>Sncg_2</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#17734b2606">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_8</rdfs:label>
+    <skos:preflabel>Sncg_8</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#bf9fa97b6a">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_24</rdfs:label>
+    <skos:preflabel>Vip_24</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#ce92aa2fc0">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_6</rdfs:label>
+    <skos:preflabel>Sncg_6</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster">
+    <rdfs:label>CrossArea_cluster</rdfs:label>
+    <CAS:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</CAS:rank>
+    <rdf:type rdf:resource="https://cellular-semantics.sanger.ac.uk/ontology/CAS/Labelset"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#c49e5ca8ce">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pax6_3</rdfs:label>
+    <skos:preflabel>Pax6_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8095bd2cb8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#d37227472c">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_28</rdfs:label>
+    <skos:preflabel>Vip_28</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#fd93a6e3fd">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_21</rdfs:label>
+    <skos:preflabel>Vip_21</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#9be4182026">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_11</rdfs:label>
+    <skos:preflabel>Vip_11</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#a357dafdb8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Lamp5_3</rdfs:label>
+    <skos:preflabel>Lamp5_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#4319e0fcb2"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N21a62dd6ea8d4313ba3d48448be52740">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#476bf7bdd0">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Pax6_1</rdfs:label>
+    <skos:preflabel>Pax6_1</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#8095bd2cb8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9d0fbc79f7024b56bc788248e1f12d8f">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#c19e6ecb21">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_3</rdfs:label>
+    <skos:preflabel>Vip_3</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#28d80539db">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_23</rdfs:label>
+    <skos:preflabel>Vip_23</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#6a8a98beda">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Sncg_4</rdfs:label>
+    <skos:preflabel>Sncg_4</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#bf12821e51"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N939c8053b2d84f8781a1b38bb12b82dc">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Restriction"/>
+    <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002473"/>
+    <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CL_4023070"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="CrossArea_cluster#037f0480e8">
+    <CAS:has_labelset rdf:resource="CrossArea_cluster"/>
+    <rdfs:label>Vip_27</rdfs:label>
+    <skos:preflabel>Vip_27</skos:preflabel>
+    <obo:RO_0015003 rdf:resource="CrossArea_subclass#aeeec672d8"/>
+    <rdf:type rdf:resource="http://purl.obolibrary.org/obo/PCL_0010001"/>
+  </rdf:Description>
+</rdf:RDF>
